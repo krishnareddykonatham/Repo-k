@@ -1,0 +1,3 @@
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27071
+spring.data.mongodb.database=link_shortener
